@@ -1,0 +1,11 @@
+=== SYSTEM HEALTH REPORT ===
+Date and Time:
+
+--- Disk Usage ---
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       6.7G  3.1G  3.6G  47% /
+
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           908Mi       341Mi       150Mi       3.1Mi       555Mi       566Mi
+Swap:             0B          0B          0B
