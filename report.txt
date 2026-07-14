@@ -1,20 +1,15 @@
 === SYSTEM HEALTH REPORT ===
-Generated on: Tue Jul 14 14:14:50 UTC 2026
-============================
+Date and Time:
+Tue Jul 14 14:22:05 UTC 2026
 
---- Current Logged-in User ---
+--- Current User Logged In ---
 ubuntu
 
---- OS and Kernel Details ---
-Linux 7.0.0-1006-aws x86_64
+--- OS & Kernel Version ---
+Linux ip-172-31-45-175 7.0.0-1006-aws #6-Ubuntu SMP PREEMPT Tue May 26 12:04:34 UTC 2026 x86_64 GNU/Linux
 
---- CPU Architecture Summary ---
-CPU(s):                                  2
-Model name:                              Intel(R) Xeon(R) Platinum 8175M CPU @ 2.50GHz
-NUMA node0 CPU(s):                       0,1
-
---- System Uptime ---
-up 3 hours, 46 minutes
+--- How long system is running ---
+up 3 hours, 53 minutes
 
 --- Disk Usage ---
 Filesystem      Size  Used Avail Use% Mounted on
@@ -22,9 +17,8 @@ Filesystem      Size  Used Avail Use% Mounted on
 
 --- Memory Usage ---
                total        used        free      shared  buff/cache   available
-Mem:             908         350         118           3         578         558
-Swap:              0           0           0
+Mem:           908Mi       354Mi       114Mi       3.1Mi       578Mi       554Mi
+Swap:             0B          0B          0B
 
 --- Total Files in Current Directory ---
 4
-
